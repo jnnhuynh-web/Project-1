@@ -1,0 +1,5 @@
+Green house gas emission data taken from https://open.canada.ca/data/en/dataset/779c7bcf-4982-47eb-af1b-a33618a05e5b
+
+https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+
+https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG
